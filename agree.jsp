@@ -7,7 +7,7 @@ if(pagefile==null){pagefile="newitem";}
 %>
 
 <html>
-<head><title> �������� 123456</789title>
+<head><title> �������� 123476767656</789title>
 <link rel="stylesheet" type="text/css" media="screen" href="jquery-ui-1.7.3.custom.css">
 <script type="text/javascript" src="jquery-ui-1.8.20.custom.min.js"></script>
 <script type="text/javascript" src="jquery.scrollfollow.js"></script>
